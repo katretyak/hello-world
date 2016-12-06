@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+I'm Karina. I' a Web-Developer. I like HTML, CSS, JavaScript
